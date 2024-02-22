@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/huddle-landing-page-with-single-introductory-section-html-and-css-3cD6Hd01PM
+- Solution URL: https://www.frontendmentor.io/solutions/nft-preview-card-component-vpzwGSKXsR
 - Live Site URL: https://frontment-nft-preview-card-component.netlify.app/
 
 ### Built with
